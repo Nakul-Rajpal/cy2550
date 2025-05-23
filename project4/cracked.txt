@@ -23,3 +23,5 @@ aralmoni:passw0rd
 dunawitec:bigdog
 softieli:hobbit
 prothenorn:ncc1701
+cutezee:bubbel
+liciolog:bubba94
